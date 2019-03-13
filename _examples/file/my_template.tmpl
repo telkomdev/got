@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>Example</title>
+    </head>
+    <body>
+        <h1>{{ .OrderID }}</h1>
+        <ul>
+            {{- range $item := .Items}}
+                <li>{{ $item }}</li>
+            {{- end }}
+        </ul>
+    </body>
+</html>

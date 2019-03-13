@@ -1,5 +1,8 @@
 ### Got
 
+[![GoDoc](https://godoc.org/github.com/Bhinneka/got?status.svg)](https://godoc.org/github.com/Bhinneka/got)
+
+
 a very simple Go's struct template parser
 
 #### Usage

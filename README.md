@@ -9,7 +9,7 @@ a very simple Go's struct template parser
 
 - Install
 ```shell
-$ go get github.com/Bhinneka/got
+$ go get github.com/telkomdev/got
 ```
 
 - Parse Template to `stdio`

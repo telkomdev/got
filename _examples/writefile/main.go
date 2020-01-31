@@ -6,7 +6,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/Bhinneka/got"
+	"github.com/telkomdev/got"
 )
 
 // Person struct

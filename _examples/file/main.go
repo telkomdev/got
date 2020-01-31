@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/Bhinneka/got"
+	"github.com/telkomdev/got"
 )
 
 // Order struct
